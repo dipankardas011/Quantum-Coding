@@ -1,0 +1,6 @@
+cmake
+qiskit
+qiskit-aer
+jupyter
+numpy
+scipy
