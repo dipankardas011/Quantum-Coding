@@ -1,6 +1,7 @@
 cmake
 qiskit
-qiskit-aer
+qiskit-ibm-runtime
+qiskit[visualization]
 jupyter
 numpy
 scipy
