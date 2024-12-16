@@ -1,11 +1,11 @@
-IMG_NAME  := quantum-img:local
+IMG_NAME  := docker.io/dipugodocker/quantum-img:local
 HOST_PORT := 8888
 
 
 @PHONY: oci-build
 oci-build:
 	@echo "Building OCI image..."
-	@docker build -t $(IMG_NAME) .
+	@docker build -t $(IMG_NAME) . --push
 
 @PHONY: oci-run
 oci-run:
