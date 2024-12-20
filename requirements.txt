@@ -6,3 +6,4 @@ qiskit_aer
 jupyter
 numpy
 scipy
+jupyterlab-horizon-theme
