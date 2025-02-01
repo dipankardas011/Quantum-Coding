@@ -2,6 +2,7 @@ cmake
 qiskit
 qiskit-ibm-runtime
 qiskit[visualization]
+python-dotenv
 qiskit_aer
 jupyter
 numpy
