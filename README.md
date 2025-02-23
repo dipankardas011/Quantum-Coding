@@ -17,3 +17,7 @@ make oci-run
 6. multi-qubit-gates
 7. run_real
 8. understanding-quantum-circuits
+
+## Some helpful videos
+
+1. OpenPulse: Software framework for quantum computing with pulses <https://youtu.be/uBw2fo1rwr8?si=zahw9jM-73uDIoI4>
