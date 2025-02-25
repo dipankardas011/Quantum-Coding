@@ -17,6 +17,7 @@ make oci-run
 6. multi-qubit-gates
 7. run_real
 8. understanding-quantum-circuits
+9. pulse schedulerss
 
 ## Some helpful videos
 
