@@ -1,0 +1,8 @@
+qiskit==1.4.0
+qiskit_aer==0.16.1
+qiskit_dynamics==0.5.1
+qiskit-ibm-runtime==0.36.1
+qiskit[visualization]
+python-dotenv
+numpy
+scipy
