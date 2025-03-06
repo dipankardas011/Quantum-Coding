@@ -22,3 +22,7 @@ make oci-run
 ## Some helpful videos
 
 1. OpenPulse: Software framework for quantum computing with pulses <https://youtu.be/uBw2fo1rwr8?si=zahw9jM-73uDIoI4>
+
+2. https://docs.quantum.ibm.com/migration-guides/qiskit-runtime-examples#sampler-algorithm
+3. https://docs.quantum.ibm.com/migration-guides/v2-primitives
+4. https://docs.quantum.ibm.com/migration-guides/qiskit-runtime
