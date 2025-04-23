@@ -6,3 +6,4 @@ qiskit[visualization]
 python-dotenv
 numpy
 scipy
+qiskit-experiments==0.10.0
