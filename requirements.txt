@@ -2,8 +2,12 @@ qiskit==1.4.0
 qiskit_aer==0.16.1
 qiskit_dynamics==0.5.1
 qiskit-ibm-runtime==0.36.1
-qiskit[visualization]
+qiskit[all]
+qiskit-machine-learning==0.8.2
+qiskit-nature==0.7.2
+qiskit-finance==0.4.1
 python-dotenv
 numpy
 scipy
 qiskit-experiments==0.10.0
+torch==2.7.0
