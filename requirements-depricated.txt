@@ -1,0 +1,11 @@
+cmake
+qiskit
+qiskit-ibm-runtime
+qiskit[visualization]
+qiskit_dynamics
+python-dotenv
+qiskit_aer
+jupyter
+numpy
+scipy
+jupyterlab-horizon-theme
