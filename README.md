@@ -27,3 +27,8 @@ make oci-run
 2. https://docs.quantum.ibm.com/migration-guides/qiskit-runtime-examples#sampler-algorithm
 3. https://docs.quantum.ibm.com/migration-guides/v2-primitives
 4. https://docs.quantum.ibm.com/migration-guides/qiskit-runtime
+
+> [!NOTE]
+> There are 2 venv
+> requirements.txt.v1 -> qiskit@v1.4.2
+> requirements.txt.v2 -> qiskit@v2.0.0
