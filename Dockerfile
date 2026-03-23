@@ -9,11 +9,12 @@ RUN apt-get update && apt-get install -y \
     g++ \
     libopenblas-dev \
     liblapack-dev \
+    graphviz \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
-COPY requirements.txt .
+COPY requirements.txt.v2 requirements.txt
 
 # Set environment variables to help with BLAS detection
 ENV OPENBLAS_NUM_THREADS=1
